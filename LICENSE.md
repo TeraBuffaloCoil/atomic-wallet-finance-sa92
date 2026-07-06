@@ -1,4 +1,4 @@
-# 
+# Manage Bitcoin, Ethereum, and 1000+ cryptocurrencies with Atomic Wallet: A secure, decentralized wallet for all your digital assets.
 
 
 
